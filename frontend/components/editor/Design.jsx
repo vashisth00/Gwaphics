@@ -1,3 +1,7 @@
+/* eslint-disable no-underscore-dangle */
+/* eslint-disable react/no-did-update-set-state */
+/* eslint-disable prefer-destructuring */
+/* eslint-disable react/destructuring-assignment */
 import React from 'react';
 import Moveable from 'react-moveable';
 import Element from './elements/Element';
